@@ -48,7 +48,7 @@ console.error("This is an error");
 // console.clear();
 
 // ....................Task-13 to 16....................
-document.writeln("Name: " + inputName + "<br>");
+document.writeln("Name: " + Hariprakash + "<br>");
 let user_Name = prompt("Enter Name (Task 14):");
 alert(user_Name);
 console.log(user_Name);
